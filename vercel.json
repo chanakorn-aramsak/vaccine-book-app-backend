@@ -3,7 +3,7 @@
     "name": "vaccine-book-app",
     "builds": [
       {
-        "src": "src/index.js",
+        "src": "server.js",
         "use": "@vercel/node"
       }
     ],
